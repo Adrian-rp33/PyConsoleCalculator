@@ -14,16 +14,17 @@
 <h2>Properties</h2>
 <ul>
   <li>
-    <p style=bold>Error Handle: </p>
+    <b>Error Handle: </b>
     <p>Errors are handle though try, except and ifs, any possible error is handle and tells the user what went wrong or what did it failed</p>
   </li>
   <li>
-    <p style=bold>Imports: </p> <p>This App uses "math" for some math operations.</p>
+    <b>Imports: </b> 
+    <p>This App uses "math" for some math operations.</p>
   </li>
   <li>
-    <p style=bold> </p>
+    <b>Functions: </b>
     <p>
-      Functions: The program uses only 2 func, menu(), which is used as the main func and shows all of the math operations 
+      The program uses only 2 func, menu(), which is used as the main func and shows all of the math operations 
       and calculate(), where numbers are retrieved for the operations and shown in the console.
     </p>
   </li>
